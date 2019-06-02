@@ -14,7 +14,7 @@ class Config:
     MAIL_PORT = 465
     MAIL_USE_SSL = True
     MAIL_USERNAME = 'bbbbbdp'
-    MAIL_PASSWORD = 'Qq172655790'
+    MAIL_PASSWORD = '000000000'
     FLASKY_MAIL_SUBJECT_PREFIX = '[Flasky]'
     FLASKY_MAIL_SENDER = 'Flasky Admin <bbbbbdp@sina.com>'
     FLASKY_POSTS_PER_PAGE = 10
